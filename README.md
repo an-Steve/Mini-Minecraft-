@@ -281,7 +281,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👨‍💻 Auteur
 
-Créé avec ❤️ en Python et Pygame
+Créé par ANTON NELCON Steve en Python et Pygame
 
 ## 🙏 Remerciements
 
